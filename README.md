@@ -1,8 +1,6 @@
 Esports Management System (MERN Stack):-
-
 Overview
 The Esports Management System is a comprehensive platform designed to facilitate the management of esports events. This project is built using the MERN stack, providing a full-stack solution with MongoDB as the database, Express.js and Node.js for the backend, and React for the frontend. Additionally, machine learning and data analysis features have been integrated to automate data export and reporting.
-
 Features
 1.Event Management:
   -Create, edit, and manage esports events with ease.
@@ -41,11 +39,7 @@ Features
  -Robust user authentication and data encryption.
 14.Mobile Responsiveness:
 -Mobile app or responsive design for on-the-go access.
-
-
-
 Machine Learning and Data Analysis Features:-
-
 1.Predictive Analytics:
 Utilizes machine learning models to predict outcomes.
 Continuous improvement through model updates.
