@@ -1,8 +1,56 @@
-# Esports-Management-System
-Esports, also known as electronic sports, is a form of competitive video gaming that involves organized, professional players competing in video game tournaments or leagues. The Esports market refers to the industry surrounding the organization and competition of Esports tournaments, as well as the development of Esports leagues and teams, the broadcast of Esports events, and the creation and sale of related merchandise and sponsorships.
+Esports Management System (MERN Stack):-
 
-Esports has grown significantly in recent years, with millions of players and spectators around the world participating in and watching Esports events. Many of the most popular Esports games are played on personal computers or gaming consoles, such as League of Legends, Counter-Strike: Global Offensive, and Overwatch. Some Esports tournaments also feature mobile games, such as Clash of Clans and PUBG Mobile.
+Overview
+The Esports Management System is a comprehensive platform designed to facilitate the management of esports events. This project is built using the MERN stack, providing a full-stack solution with MongoDB as the database, Express.js and Node.js for the backend, and React for the frontend. Additionally, machine learning and data analysis features have been integrated to automate data export and reporting.
 
-With this report we provide a comprehensive overview of the state of the Esports market as it is today as well as a prognosis with detailed information on six different market markets. Besides all relevant market figures such as total and average revenues, and user for the years from 2017 to 2027, we furthermore give detailed insights on current trends, key players, and important background knowledge of the Esports market.
+Features
+1.Event Management:
+  -Create, edit, and manage esports events with ease.
+  -Intuitive UI for event organizers to streamline the planning process.
+2.Registration and Participant Management:
+  -Seamless player and team registration.
+  -Robust participant information management.
+3.Brackets and Match Scheduling:
+  -Automated bracket generation for tournaments.
+  -Efficient match scheduling for smooth event flow.
+4.Scoring and Results:
+  -Allow participants to submit scores.
+  -Real-time result calculation and display.
+5.Live Streaming Integration:
+  -Integration with popular streaming platforms.
+  -Viewership analytics for event organizers.
+6.Communication Tools:
+  -In-app messaging for participants.
+  -Announcement features for event organizers.
+7.User and Team Profiles:
+  -Team and player profiles with customizable details.
+8.Payment and Ticketing:
+ -Seamless online payment integration.
+ -Ticketing system for live events.
+9.Admin Dashboard:
+ -Event analytics and insights for administrators.
+ -User management features.
+10.Social Media Integration:
+ -Social sharing and sign-in options.
+11.Sponsorship Management:
+ -Sponsorship tracking with branding opportunities.
+12.Feedback and Surveys:
+ -Post-event surveys for continuous improvement.
+ -Data analysis for insights.
+13.Security Features:
+ -Robust user authentication and data encryption.
+14.Mobile Responsiveness:
+-Mobile app or responsive design for on-the-go access.
 
-Comparing the three major Digital Media markets – the U.S., China, and Europe – The U.S. has the biggest market in 2023 and will still be by 2027. The market in the U.S. is worth US$0.93 billion in 2023. Revenues are expected to grow at a CAGR of 9.4% by 2027, resulting in revenues of US$1.46 billion. In the European market, revenues of US$1.1 billion are generated in 2023. With a CAGR of 9.7%, the market is expected to exceed revenues of US$1.76 billion by 2027. The Esports market is China with a market volume of US$383.4 million in 2023. Growth rates of 8.8% annually will lead to revenues of US$585.4 million in 2027.
+
+
+Machine Learning and Data Analysis Features:-
+
+1.Predictive Analytics:
+Utilizes machine learning models to predict outcomes.
+Continuous improvement through model updates.
+2.Automated Reporting:
+Data export options for users.
+Automated scheduled reporting with key metrics.
+3.Real-Time Data Updates:
+Real-time data refresh for dashboards and reports.
